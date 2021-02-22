@@ -1,0 +1,131 @@
+{
+  "tweets": [
+    {
+      "sender": {
+        "name": "عابد ناصری",
+        "id": "abednaseri@",
+        "img": "/images/abednaseri.png"
+      },
+      "text": "ویدیو جدید با عنوان <<نحوه شروع صبحی پر از انرژی>> در #یوتیوب آپلود شد",
+      "likes": 3042
+    },
+    {
+      "sender": {
+        "name": "مستر تیستر",
+        "id": "mrtaster@",
+        "img": "/images/mrtaster.png"
+      },
+      "text": "الان یه حرکت #لاکچری زدم و به جای اینکه پارچ رو سر بکشم آب رو ریختم تو لیوان بعد خوردم ، خانواده ایستاده تشویقم میکردن :))",
+      "likes": 26489
+    },
+    {
+      "sender": {
+        "name": "محمد حسین جوادی نسب",
+        "id": "mohammad.h.javadi@",
+        "img": "/images/javadi.jpg"
+      },
+      "text": "از #خانواده پدریم فقط با بابام رفت و آمد داریم",
+      "likes": 8711
+    },
+    {
+      "sender": {
+        "name": "تام هاردی",
+        "id": "tomhardy@",
+        "img": "/images/tomhardy.jfif"
+      },
+      "text": "فقط چون هنوز اتفاق نیفتاده ، به این معنی نیست که اتفاق نمی افته پس #امید داشته باش",
+      "likes": 473920
+    },
+    {
+      "sender": {
+        "name": "خبرگذاری تسنیم",
+        "id": "tasnimnews@",
+        "img": "/images/tasnim.png"
+      },
+      "text": "یارانه ی سنگین معیشتی برای خرید ملک و ماشین خارجی امشب به حساب #سرپرست_خانوار واریز میشود",
+      "likes": 10365
+    },
+    {
+      "sender": {
+        "name": "سید لقمان آوند",
+        "id": "loghmanavand@",
+        "img": "/images/loghman.png"
+      },
+      "text": "دوره ی #برنامه_نویسی پایتون با تدریس استاد ناظری ، با سون لرن خدای پایتون شوید.",
+      "likes": 1730
+    },
+    {
+      "id": 839,
+      "sender": {
+        "name": "هلیا ساجدی",
+        "id": "heliasajedi@",
+        "img": "/images/profile.jpg"
+      },
+      "text": "این یک توییت ماژولار است ",
+      "likes": 458
+    },
+    {
+      "id": 542,
+      "sender": {
+        "name": "هلیا ساجدی",
+        "id": "heliasajedi@",
+        "img": "/images/profile.jpg"
+      },
+      "text": "hello baby hello",
+      "likes": 458
+    },
+    {
+      "id": 403,
+      "sender": {
+        "name": "هلیا ساجدی",
+        "id": "heliasajedi@",
+        "img": "/images/profile.jpg"
+      },
+      "text": "dsdsadasdasdasdasdasd",
+      "likes": 458
+    }
+  ],
+  "tweeter": [
+    {
+      "name": "شیائومی",
+      "id": "xiaomi@",
+      "img": "/images/xiaomi.png"
+    },
+    {
+      "name": "بیل گیتس",
+      "id": "billgates@",
+      "img": "/images/billgates.png"
+    },
+    {
+      "name": "سامسونگ",
+      "id": "samsung@",
+      "img": "/images/samsung.png"
+    },
+    {
+      "name": "رایتل",
+      "id": "rightel@",
+      "img": "/images/rightel.png"
+    },
+    {
+      "name": "ری اکت",
+      "id": "reactjs@",
+      "img": "/images/react.png"
+    },
+    {
+      "name": "سید لقمان آوند",
+      "id": "loghmanavand@",
+      "img": "/images/loghman.png"
+    }
+  ],
+  "hashtags": [
+    "پرچم_دار_جدید",
+    "کرونا_ویروس",
+    "سفارش_اینترنتی",
+    "هوش_مصنوعی",
+    "ویزای_تحصیلی",
+    "انتخابات_آمریکا",
+    "کتاب_دیجیتال",
+    "معرفی_سریال_2020",
+    "طنز_تلخ"
+  ]
+}

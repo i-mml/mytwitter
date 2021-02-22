@@ -1,0 +1,14 @@
+{
+    "home" : "Zuhause",
+    "appName":"Persisch Twitter",
+    "hashTagTitle":"Heißesten HashTags",
+    "userListTitles":"Beste Twitters",
+    "tweetBtn":"Tweet",
+    "editProfilePhoto":"Profilfoto bearbeiten",
+    "logoutMenu":"Ausloggen",
+    "wait":"warten bitte",
+    "404_desc":"Die gesuchte Seite wurde nicht gefunden",
+    "force_username":"Sie müssen einen Benutzername eingaben",
+    "force_password":"Sie müssen einen Passwort eingaben",
+    "force_repassword":"Sie müssen dasselbe Passwort eingaben"
+}

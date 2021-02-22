@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "appName": "Persain Twitter",
+  "hashTagTitle": "Hottest HashTags",
+  "userListTitles": "Best Twitters",
+  "tweetBtn": "Tweet",
+  "editProfilePhoto": "Edit Profile Photo",
+  "logoutMenu": "Logout",
+  "wait":"Please wait...",
+  "404_desc":"the page you were looking for was not found",
+  "force_username":"You must enter a Username",
+  "force_password":"You must enter a Password",
+  "force_repassword":"You must enter a same Password"
+
+
+}
